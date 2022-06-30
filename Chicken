@@ -10,7 +10,7 @@
             <a class="Browser" href=AnimalNews.html><h1 style="font-family: 'Abril Fatface', cursive">Animal News</a></h1>
             <hr style="width: 100%;">
         </div>
-        <img src="image/Chicken.jpg" style="width: 40%; margin-left:10px; margin-right:10px; float:left;">
+        <img src="image/Chicken.jpg" style="width: 40%; margin-left:10px; margin-right:10px; float:Right;">
         <h2>Ternyata Ayam Sudah Dipelihara Sejak 1500 SM, Dulunya Hewan Sakral?</h2>
         <p>
         Sebuah studi terbaru mengungkap upaya domestikasi ayam dan penyebarannya yang mematahkan persepsi sebelumnya. Ternyata, orang zaman dulu memelihara ayam sejak 1500 SM.
